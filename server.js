@@ -1,4 +1,5 @@
-const Gt06 = require('/Users/diego/gt06/gt06');
+// const Gt06 = require('/Users/diego/gt06/gt06');
+const Gt06 = require('/home/diegopereira/gt06/gt06');
 const net = require('net');
 
 var server = net.createServer((client) => {
